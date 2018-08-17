@@ -193,7 +193,7 @@ img
     background-color: #00004d;
     color: white;
     padding: 16px;
-    font-size: 16px;
+    /*pfont-size: 16px;*/
     border: none;
     cursor: pointer;
     text-transform: uppercase;
